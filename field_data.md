@@ -8,12 +8,15 @@ be collected and would help to increase re use and sharing data for different pu
 
 Amount of data collected during the whole deployment
 
-Unit: Gigabytes (GB)
+Unit: Bytes
 
 ## Data collection protocol
 
-How was the data collected? Inform about recording protocol (i.e.: how the recorder
-was programmed) and sampling design (how many days, month, year, and sampling points).
+How was the data collected? 
+1. Inform about recording protocol (i.e.: which recorder was used and how it
+was programmed). If possible, add the configuration file in a repository or supplementary material.
+2. Explain sampling design (how many days, month, year, and sampling points;).
+    - Information about the location: provide as much detail as possible, including maps and any other additional material that would help to understand and visualise the area.
 
 If the data collection protocol was inspired/same as published research, provide citation. It is also important to provide justification of choices based on ecology/biology nature of research questions to be answered.
 
